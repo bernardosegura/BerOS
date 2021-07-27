@@ -33,3 +33,10 @@ $ qemu-system-x86_64 -cdrom BerOS.iso
 > **qemu-system-x86_64.exe** requiere de el paquete instalado **qemu** para funcionar.
 
 # Resultado :)
+El sistema es un **reloj** el cual muestra la fecha en la parte superior y un reloj pequeño el cual puede ser deshabilitado.
+En la parte central está el reloj.
+En la parte inferior muestra un panel con ayuda y las diferentes acciones que se pueden realizar.
+
+### Fuente Normal
+
+### Fuente Alien :alien:
