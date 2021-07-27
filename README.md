@@ -1,4 +1,4 @@
-# BerOS
+# <img src="https://github.com/bernardosegura/BerOS/blob/master/img/BerOS.png" alt="BerOS" />
 Es un Micro Sistema Operativo de 32 Bit, que ayuda a comprender como es el desarrollo de uno a un nivel muy básico, cuenta con un kernel simple el cual integra todo el funcionamiento del sistema.
 
 # Creación del Sistema
@@ -38,5 +38,7 @@ En la parte central está el reloj.
 En la parte inferior muestra un panel con ayuda y las diferentes acciones que se pueden realizar.
 
 ### Fuente Normal
+<img src="https://github.com/bernardosegura/BerOS/blob/master/img/scrNormal.png" alt="srcNormal" />
 
 ### Fuente Alien :alien:
+<img src="https://github.com/bernardosegura/BerOS/blob/master/img/scrAlien.png" alt="srcAlien" />
