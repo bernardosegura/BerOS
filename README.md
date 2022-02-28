@@ -32,6 +32,10 @@ $ qemu-system-x86_64 -cdrom BerOS.iso
 ```
 > **qemu-system-x86_64.exe** requiere de el paquete instalado **qemu** para funcionar.
 
+# Imagen ISO
+Se preparó imagen precompilada.
+- [BerOS.iso](https://drive.google.com/file/d/1jtpe4XTekoKPrGUVlu76IKjO-ZpMpben/view?usp=sharing)
+
 # Resultado :)
 El sistema es un **reloj** el cual muestra la fecha en la parte superior y un reloj pequeño el cual puede ser deshabilitado.
 En la parte central está el reloj.
